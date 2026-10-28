@@ -12,9 +12,8 @@ Computer Science undergraduate (B.Tech, Amity University Rajasthan, 2027) and AI
 
 <br>
 
-<img src="assets/section-work.svg" alt="01 Selected Work" width="100%">
-
 <p>
+<img src="assets/section-work.svg" alt="01 Selected Work" width="100%" align="top">
 <img src="assets/row-1.svg" alt="AI Workflow Automation Platform. Enterprise workflow platform with FastAPI services, automated reporting and live dashboards. Python, FastAPI, React, REST APIs." width="100%" align="top">
 <img src="assets/row-2.svg" alt="FACETA. Interactive 3D diamond inspection platform with measurement and geometric analysis. React, TypeScript, Three.js." width="100%" align="top">
 <img src="assets/row-3.svg" alt="SpeakBridge. Speech-to-sign and sign-to-speech platform with MediaPipe gesture recognition. Python, FastAPI, React, MediaPipe." width="100%" align="top">
@@ -25,38 +24,22 @@ Computer Science undergraduate (B.Tech, Amity University Rajasthan, 2027) and AI
 
 <br>
 
-<img src="assets/section-toolkit.svg" alt="02 Technical Toolkit" width="100%">
-
-| | |
-|---|---|
-| **Languages** | Python, Java, C++, C, SQL, JavaScript (ES6), TypeScript |
-| **AI & Data** | Machine learning, NLP, Generative AI, LLM API integration, prompt engineering, RAG fundamentals; Pandas, NumPy, Matplotlib, Scikit-learn, MediaPipe |
-| **Backend** | FastAPI, Flask, REST APIs, Streamlit |
-| **Frontend** | React.js, Vite, Tailwind CSS, HTML5, CSS3, Three.js |
-| **Databases** | MySQL, PostgreSQL, SQLite, MongoDB |
-| **Practices** | OOP, DSA, async/await, unit testing, error handling and logging, Git workflows |
+<p>
+<img src="assets/section-toolkit.svg" alt="02 Technical Toolkit" width="100%" align="top">
+<img src="assets/toolkit.svg" alt="Languages, AI and data, backend, frontend, databases and engineering practices. Languages: Python, Java, C++, C, SQL, JavaScript (ES6), TypeScript. Ai &amp; Data: Machine learning, NLP, Generative AI, LLM API integration, prompt engineering, RAG fundamentals; Pandas, NumPy, Matplotlib, Scikit-learn, MediaPipe. Backend: FastAPI, Flask, REST APIs, Streamlit. Frontend: React.js, Vite, Tailwind CSS, HTML5, CSS3, Three.js. Databases: MySQL, PostgreSQL, SQLite, MongoDB. Practices: OOP, DSA, async/await, unit testing, error handling and logging, Git workflows." width="100%" align="top">
+</p>
 
 <br>
 
-<img src="assets/section-experience.svg" alt="03 Experience" width="100%">
-
-**AI Developer & Workflow Automation Specialist** · Excellent Facets Pvt. Ltd., Jaipur · *Jun – Aug 2026*
-
-- Built AI-powered workflow automation systems in production-grade Python to replace manual business processes.
-- Designed backend services and REST APIs; integrated LLM APIs with error handling, logging, caching and cost optimization.
-- Developed dashboards, data pipelines and modular ERP components in collaboration with stakeholders.
-
-**Data Science Intern** · Upflairs Pvt. Ltd. · *Jun – Jul 2025*
-
-- Built end-to-end ML solutions with Scikit-learn, from data cleaning and feature engineering to EDA.
-- Created analytical dashboards with Pandas, NumPy and Matplotlib.
+<p>
+<img src="assets/section-experience.svg" alt="03 Experience" width="100%" align="top">
+<img src="assets/experience.svg" alt="Excellent Facets Pvt. Ltd., AI Developer and Workflow Automation Specialist, June to August 2026. Upflairs Pvt. Ltd., Data Science Intern, June to July 2025." width="100%" align="top">
+</p>
 
 <br>
 
-<img src="assets/section-leadership.svg" alt="04 Leadership" width="100%">
-
-- **General Secretary**, IEEE Student Branch, Amity University Rajasthan · *Jan 2025 – Present*
-- **Organizer**, Whack Hackathon 4.0 (national level, 24 hours) · *Feb 2026* · 30+ teams, 500+ attendees
-- **Team Member**, National Service Scheme (NSS)
-
-<sub>Certifications: Data Science with ML & AI (Upflairs) · Tata Cybersecurity Analyst Job Simulation (Forage) · NSDC Data Science & Analytics (Internshala Trainings)</sub>
+<p>
+<img src="assets/section-leadership.svg" alt="04 Leadership" width="100%" align="top">
+<img src="assets/leadership.svg" alt="General Secretary of the IEEE Student Branch at Amity University Rajasthan since January 2025. Organizer of Whack Hackathon 4.0, February 2026, with 30+ teams and 500+ attendees. Team Member, National Service Scheme." width="100%" align="top">
+<img src="assets/certifications.svg" alt="Data Science with ML &amp; AI, Upflairs Pvt. Ltd. Tata Cybersecurity Analyst Job Simulation, Forage. NSDC Data Science &amp; Analytics, Internshala Trainings." width="100%" align="top">
+</p>
