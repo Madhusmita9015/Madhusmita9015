@@ -14,20 +14,14 @@ Computer Science undergraduate (B.Tech, Amity University Rajasthan, 2027) and AI
 
 <img src="assets/section-work.svg" alt="01 Selected Work" width="100%">
 
-<table>
-<tr>
-<td width="50%"><img src="assets/card-1.svg" alt="AI Workflow Automation Platform. Enterprise workflow platform with FastAPI services, automated reporting and real-time dashboards. Python, FastAPI, React, REST APIs." width="100%"></td>
-<td width="50%"><img src="assets/card-2.svg" alt="FACETA. Interactive 3D diamond inspection platform with measurement and geometric analysis tools. React, TypeScript, Three.js." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><img src="assets/card-3.svg" alt="SpeakBridge. Speech-to-sign and sign-to-speech platform using MediaPipe, designed accessibility-first. Python, FastAPI, React, MediaPipe." width="100%"></td>
-<td width="50%"><img src="assets/card-4.svg" alt="Diamond Order Suite. Order management platform with a validation-driven order builder and tracking dashboards. React, JavaScript, HTML, CSS." width="100%"></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Madhusmita9015/Mystic_Mirror"><img src="assets/card-5.svg" alt="Mystic Mirror, view repository. Conversational AI oracle using LLM APIs in a Streamlit app. Python, Streamlit, LLM APIs." width="100%"></a></td>
-<td width="50%"><a href="https://github.com/Madhusmita9015/All_Projects_Upflairs_PVT.LTD"><img src="assets/card-6.svg" alt="Data Science and ML projects, view repository. Data cleaning, feature engineering, EDA, predictive models and dashboards. Python, Scikit-learn, Pandas, NumPy." width="100%"></a></td>
-</tr>
-</table>
+<p>
+<img src="assets/row-1.svg" alt="AI Workflow Automation Platform. Enterprise workflow platform with FastAPI services, automated reporting and live dashboards. Python, FastAPI, React, REST APIs." width="100%" align="top">
+<img src="assets/row-2.svg" alt="FACETA. Interactive 3D diamond inspection platform with measurement and geometric analysis. React, TypeScript, Three.js." width="100%" align="top">
+<img src="assets/row-3.svg" alt="SpeakBridge. Speech-to-sign and sign-to-speech platform with MediaPipe gesture recognition. Python, FastAPI, React, MediaPipe." width="100%" align="top">
+<img src="assets/row-4.svg" alt="Diamond Order Suite. Order management platform with a validation-driven builder and tracking dashboards. React, JavaScript, HTML, CSS." width="100%" align="top">
+<a href="https://github.com/Madhusmita9015/Mystic_Mirror"><img src="assets/row-5.svg" alt="Mystic Mirror, view repository. Conversational AI oracle blending astrology and tarot themes with LLM APIs. Python, Streamlit, LLM APIs." width="100%" align="top"></a>
+<a href="https://github.com/Madhusmita9015/All_Projects_Upflairs_PVT.LTD"><img src="assets/row-6.svg" alt="Data Science and ML Projects, view repository. End-to-end ML work: data cleaning, EDA, predictive models and dashboards. Python, Scikit-learn, Pandas, NumPy." width="100%" align="top"></a>
+</p>
 
 <br>
 
